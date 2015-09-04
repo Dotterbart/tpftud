@@ -1,0 +1,12 @@
+Package: tpftud
+Type: Package
+Title: Finding solutions for TV-show questions
+Version: 0.1
+Date: 2015-08-25
+Authors@R: person("Dominik", "Lenk", email = "dominik.lenk@tu-dortmund.de", role = c("aut", "cre"))
+Description: This package contains functions, which find the definitive best answers to questions
+  of the german TV-Shows "1, 2 oder 3", "Wer wird Millionaer", "Der Preis ist heiss" and
+  "Geh aufs Ganze".
+License: What license is it under?
+LazyData: TRUE
+Suggests: testthat
