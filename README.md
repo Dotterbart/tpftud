@@ -1,2 +1,2 @@
 # tpftud
-test package für tu dortmund
+test package for tu dortmund
